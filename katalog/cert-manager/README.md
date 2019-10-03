@@ -14,7 +14,7 @@ Encrypt](https://letsencrypt.org/) Certificate Authority.
 
 
 ## Image repository and tag
-* Cert Manager image: `quay.io/jetstack/cert-manager-controller:v0.9.0`
+* Cert Manager image: `quay.io/jetstack/cert-manager-controller:v0.10.1`
 * Cert Manager repo: https://github.com/jetstack/cert-manager
 * Cert Manager documentation: https://docs.cert-manager.io/en/release-0.9/index.html
 

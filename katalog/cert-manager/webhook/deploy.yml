@@ -14,8 +14,9 @@ spec:
     spec:
       serviceAccountName: cert-manager-webhook
       containers:
-      - name: webhook
-        image: "quay.io/jetstack/cert-manager-webhook:v0.9.0"
+#       - name: webhook
+      - name: cert-manager
+        image: "quay.io/jetstack/cert-manager-webhook:v0.10.1"
         imagePullPolicy: Always
         args:
         - --v=2
