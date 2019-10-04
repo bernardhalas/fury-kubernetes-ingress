@@ -9,4 +9,4 @@ resources:
 - deploy.yml
 - rbac.yml
 - tls.yml
-- webhookconfig.yml
+- webhookvalidatingconfig.yml
